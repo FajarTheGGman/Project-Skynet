@@ -7,9 +7,15 @@
 
 <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge" />  <img src="https://img.shields.io/badge/Framework-Flask-orange?style=for-the-badge" />  <img src="https://img.shields.io/badge/Machine-RaspberryPi-red?style=for-the-badge" />
 
-
 # <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/icon/screenshot.png" width="30" height="30"/> Screenshots
 <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/screenshot.png"/>
+
+# <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/overview.png" width="30" height="30"/> Overview
+Stand
+<img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/stand.gif"/>
+
+Sit
+<img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/sit.gif"/>
 
 
 # <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/icon/pinout.png" width="30" height="30"/> Pinout
@@ -27,7 +33,6 @@ Servo 4 -> GPIO5
 
 # <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/icon/schemantic.png" width="30" height="30"/> Schemantic
 <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/skematik.png"/>
-
 
 # <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/icon/components.png" width="30" height="30"/> Components
 <pre>
