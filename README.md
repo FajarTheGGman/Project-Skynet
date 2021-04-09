@@ -1,5 +1,5 @@
 # Project Skynet
-## Simple Program for make robotics with raspberry pi and flask
+Simple Program for robotics with raspberry pi and flask
 
 <div align='center'>
   <img src='https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/icon.png' width="200" height="200"/>
