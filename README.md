@@ -12,10 +12,10 @@
 
 # <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/overview.png" width="30" height="30"/> Overview
 <pre>
-## Stand
+<h1> Stand </h1>
 <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/stand.gif"/>
 
-## Sit
+<h1> Sit </h1>
 <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/sit.gif"/>
 </pre>
 
