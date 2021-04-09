@@ -1,7 +1,7 @@
 # Project Skynet
 
 <div align='center'>
-  <img src='https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/icon.png'/>
+  <img src='https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/icon.png' width="100" height="100"/>
 </div>
 
 <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge" /><img src="https://img.shields.io/badge/Framework-Flask-orange?style=for-the-badge" /><img src="https://img.shields.io/badge/Machine-RaspberryPi-red?style=for-the-badge" />
@@ -24,7 +24,7 @@ Servo 4 -> GPIO5
 </pre>
 
 
-# <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/icon/schemantic.png.png" width="30" height="30"/> Schemantic
+# <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/icon/schemantic.png" width="30" height="30"/> Schemantic
 <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/skematik.png"/>
 
 
