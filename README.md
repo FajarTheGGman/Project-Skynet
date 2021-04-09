@@ -37,6 +37,7 @@ Servo 4 -> GPIO5
 - Resistor
 - Mini Fan
 - Servo
+- Battery LiPo
 </pre>
 
 
