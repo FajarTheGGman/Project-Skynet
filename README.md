@@ -11,12 +11,13 @@
 <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/screenshot.png"/>
 
 # <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/overview.png" width="30" height="30"/> Overview
-Stand
+<pre>
+##Stand
 <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/stand.gif"/>
 
-Sit
+##Sit
 <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/sit.gif"/>
-
+</pre>
 
 # <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/icon/pinout.png" width="30" height="30"/> Pinout
 <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/pinout.png"/>
