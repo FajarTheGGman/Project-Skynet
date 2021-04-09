@@ -4,7 +4,7 @@
   <img src='https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/icon.png' width="200" height="200"/>
 </div>
 
-<img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge" /><img src="https://img.shields.io/badge/Framework-Flask-orange?style=for-the-badge" /><img src="https://img.shields.io/badge/Machine-RaspberryPi-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge" />  <img src="https://img.shields.io/badge/Framework-Flask-orange?style=for-the-badge" />  <img src="https://img.shields.io/badge/Machine-RaspberryPi-red?style=for-the-badge" />
 
 
 # <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/icon/screenshot.png" width="30" height="30"/> Screenshots
