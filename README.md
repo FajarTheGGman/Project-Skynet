@@ -32,6 +32,12 @@ Servo 4 -> GPIO5
 </pre>
 
 
+# Route URL
+<pre>
+GET /stand
+GET /sit
+</pre>
+
 # <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/icon/schemantic.png" width="30" height="30"/> Schemantic
 <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/skematik.png"/>
 
