@@ -1,15 +1,23 @@
 # Project Skynet
+Simple Program for robotics with raspberry pi and flask
 
 <div align='center'>
-  <img src='https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/icon.png'/>
+  <img src='https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/icon.png' width="200" height="200"/>
 </div>
 
-<img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge" /><img src="https://img.shields.io/badge/Framework-Flask-orange?style=for-the-badge" /><img src="https://img.shields.io/badge/Machine-RaspberryPi-red?style=for-the-badge" />
-
+<img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge" />  <img src="https://img.shields.io/badge/Framework-Flask-orange?style=for-the-badge" />  <img src="https://img.shields.io/badge/Machine-RaspberryPi-red?style=for-the-badge" />
 
 # <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/icon/screenshot.png" width="30" height="30"/> Screenshots
 <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/screenshot.png"/>
 
+# <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/overview.png" width="30" height="30"/> Overview
+<pre>
+<h1> Stand </h1>
+<img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/stand.gif"/>
+
+<h1> Sit </h1>
+<img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/sit.gif"/>
+</pre>
 
 # <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/icon/pinout.png" width="30" height="30"/> Pinout
 <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/pinout.png"/>
@@ -24,9 +32,14 @@ Servo 4 -> GPIO5
 </pre>
 
 
-# <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/icon/schemantic.png.png" width="30" height="30"/> Schemantic
-<img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/skematik.png"/>
+# Route URL
+<pre>
+GET /stand
+GET /sit
+</pre>
 
+# <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/icon/schemantic.png" width="30" height="30"/> Schemantic
+<img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/skematik.png"/>
 
 # <img src="https://raw.githubusercontent.com/FajarTheGGman/Project-Skynet/master/.img/icon/components.png" width="30" height="30"/> Components
 <pre>
@@ -37,6 +50,7 @@ Servo 4 -> GPIO5
 - Resistor
 - Mini Fan
 - Servo
+- Battery LiPo
 </pre>
 
 
