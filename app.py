@@ -27,17 +27,17 @@ class Server:
 
         @app.route('/stand')
         def stand():
-            os.system('python3 bot.py 3 10')
-            os.system('python3 bot.py 17 2')
-            os.system('python3 bot.py 5 10')
-            os.system('python3 bot.py 13 2')
+            os.system('python3 bot.py 3 2')
+            os.system('python3 bot.py 17 10')
+            os.system('python3 bot.py 5 2')
+            os.system('python3 bot.py 13 10')
             return "[+] Robot is stand"
 
         @app.route('/sit')
         def sit():
-            os.system('python3 bot.py 3 5')
-            os.system('python3 bot.py 17 7')
-            os.system('python3 bot.py 13 7')
+            os.system('python3 bot.py 13 5')
+            os.system('python3 bot.py 17 5')
+            os.system('python3 bot.py 3 7')
             os.system('python3 bot.py 5 5')
             return "[+] Robot is sit"
 
