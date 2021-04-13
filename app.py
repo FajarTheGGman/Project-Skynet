@@ -38,7 +38,7 @@ class Server:
             os.system('python3 bot.py 13 5')
             os.system('python3 bot.py 17 5')
             os.system('python3 bot.py 3 7')
-            os.system('python3 bot.py 5 5')
+            os.system('python3 bot.py 5 6')
             return "[+] Robot is sit"
 
         @app.route('/walk')
