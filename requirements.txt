@@ -1,4 +1,4 @@
-flask==1.1.2
-cowsay==3.0
-colored==1.4.2
-termcolor==1.1.0
+flask
+cowsay
+colored
+termcolor
