@@ -48,10 +48,10 @@ class Server:
             os.system('python3 bot.py 5 4')
             os.system('python3 bot.py 17 6')
 
-            os.system('python3 bot.py 3 12')
-            os.system('python3 bot.py 13 10')
             os.system('python3 bot.py 5 2')
             os.system('python3 bot.py 17 9')
+            os.system('python3 bot.py 3 12')
+            os.system('python3 bot.py 13 10')
             return "[+] Robot is walking"
 
         @app.errorhandler(404)
