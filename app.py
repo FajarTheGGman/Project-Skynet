@@ -44,7 +44,7 @@ class Server:
         @app.route('/walk')
         def walk():
             os.system('python3 bot.py 3 8')
-            os.system('python3 bot.py 13 10')
+            os.system('python3 bot.py 13 12')
             os.system('python3 bot.py 5 4')
             os.system('python3 bot.py 17 6')
 
