@@ -7,7 +7,18 @@ GPIO.setup(int(sys.argv[1]), GPIO.OUT)
 
 x = GPIO.PWM(int(sys.argv[1]), 50)
 
-x.start(5)
+pin = int(sys.argv[1])
+
+if pin == 13:
+    x.start(10)
+elif pin == 17:
+    x.start(10)
+elif pin == 3:
+    x.start(2)
+elif pin == 5:
+    x.start(2)
+else:
+    print('error')
 
 def minimum():
     for i in range(2, 4):
@@ -32,8 +43,6 @@ def maximum():
 
     x.stop()
     GPIO.cleanup()
-
-pin = int(sys.argv[1])
 
 if pin == 3:
     minimum()
